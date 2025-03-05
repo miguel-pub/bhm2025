@@ -1,0 +1,14 @@
+build/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+venv/
+__pycache__/
+*.log
+*.log.*
+main.spec
+.venv/
+Berichtsheft_KW*.xlsx
+dist/
